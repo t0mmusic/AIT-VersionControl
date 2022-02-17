@@ -2,6 +2,6 @@
 
 int	main(void)
 {
-	printf("num");
+	printf("0123456789");
 	return (0);
 }

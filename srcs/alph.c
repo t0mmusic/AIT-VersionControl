@@ -2,7 +2,6 @@
 
 int	main(void)
 {
-	printf("aabcdefghijklmnopqrstuvwxyz");
-	printf("\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n");
+	printf("abcdefghijklmnopqrstuvwxyz");
 	return (0);
 }

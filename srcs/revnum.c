@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int	main()
+int	main(void)
 {
 	printf("9876543210");
 	return (0);
